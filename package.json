@@ -1,0 +1,23 @@
+{
+  "name": "js-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robosrinidhi/JS-Console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robosrinidhi/JS-Console/issues"
+  },
+  "homepage": "https://github.com/robosrinidhi/JS-Console#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "ramda": "^0.28.0"
+  }
+}
